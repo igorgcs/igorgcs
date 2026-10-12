@@ -1,6 +1,6 @@
 # 👨‍💻 Igor Costa
 
-**'Desenvolvedor Backend'**
+**Desenvolvedor Backend**
 
 Me chamo Igor Gabriel Costa, tenho 23 anos e sou natural de Minas Gerais. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Estácio. Amo tecnologia e venho compartilhando meu aprendizado por aqui.
 
