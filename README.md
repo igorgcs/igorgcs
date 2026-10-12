@@ -5,7 +5,7 @@
 Me chamo Igor Gabriel Costa, tenho 23 anos e sou natural de Minas Gerais. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Estácio. Amo tecnologia e venho compartilhando meu aprendizado por aqui.
 
 <p align="left">
-    <a href="www.linkedin.com/in/igor-costa-0027a2378">
+    <a href="https://www.linkedin.com/in/igor-costa-0027a2378/">
         <img 
             alt="Linkedin" 
             title="Meu Perfil" 
